@@ -11,9 +11,13 @@ Nowadays, I have enough skills to develop any product from Frontend to Backend t
 
 
 ### Experience
+Feb 2022 → Present
+>  Migrating Apollo GraphQL API to GraphQL Mesh gateway...
+>
+
+---
 
 Aug 2019 → Sep 2021
->  ###
 >  Working as Software Engineer for multiple projects at Zoopla. Hands on full development cycle from dev environment to production on different stacks.
 >
 >  <ins>**As a Frontend Engineer**</ins> I’ve helped the company working from data analytics migration plans to new feature implementations in React.
